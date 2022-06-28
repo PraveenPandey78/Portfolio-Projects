@@ -1,2 +1,2 @@
 # Portfolio-Projects
-This contains all of my Portfolio projects codes and data
+My Covid data exploration code in sql and data
